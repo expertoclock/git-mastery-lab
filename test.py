@@ -1,5 +1,6 @@
 #test app
 
-from app import add
+from app import add, subtract
 
 print(add(2, 3))
+print(subtract(5, 2))
